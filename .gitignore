@@ -1,0 +1,5 @@
+#depedencies
+/node_modules
+
+#misc
+.env
